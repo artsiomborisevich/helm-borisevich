@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  first-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-23T09:00:25.982145497-05:00"
+    description: A Helm chart for SA2 demo
+    digest: 8673ca58a6b48848d9224a77fa7dcac151fe2b975315db2461a8ed10b1d9ad5f
+    name: first-app
+    type: application
+    urls:
+    - https://artsiomborisevich.github.io/helm-borisevich/helm-releases/first-app-0.2.0.tgz
+    version: 0.2.0
+generated: "2022-12-23T09:00:25.981543774-05:00"
