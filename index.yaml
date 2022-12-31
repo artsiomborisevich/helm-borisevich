@@ -14,9 +14,9 @@ entries:
   jenkins-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-31T06:26:35.439126931-05:00"
+    created: "2022-12-31T07:27:26.592073831-05:00"
     description: A Helm chart for Kubernetes
-    digest: 6d803c12691ee4d637d539ac4195d547598ed1f843afa2488bc114f6273c93db
+    digest: e075f764abbcfbb3edca3960f87b3dd67a43acd88c301b29e4ba1682d5d4cef2
     name: jenkins-app
     type: application
     urls:
@@ -24,7 +24,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-31T06:26:35.438706774-05:00"
+    created: "2022-12-31T07:27:26.591279932-05:00"
     description: A Helm chart for Kubernetes
     digest: cc7edf20d0d0add3eddf0610dcd2dad690569bc10a87e66bcaed66cc9a062331
     name: jenkins-app
@@ -32,4 +32,4 @@ entries:
     urls:
     - https://artsiomborisevich.github.io/helm-borisevich/helm-releases/jenkins-app-0.2.0.tgz
     version: 0.2.0
-generated: "2022-12-31T06:26:35.437590453-05:00"
+generated: "2022-12-31T07:27:26.586678349-05:00"
