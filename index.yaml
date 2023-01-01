@@ -14,7 +14,17 @@ entries:
   jenkins-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-31T12:32:38.008334974-05:00"
+    created: "2023-01-01T04:02:00.307494918-05:00"
+    description: Version with argocd namespace
+    digest: 9e891ec959cb6532e8565631a3d4d9aafcd8d1d43f97bc6f83c74fee687e7272
+    name: jenkins-app
+    type: application
+    urls:
+    - https://artsiomborisevich.github.io/helm-borisevich/helm-releases/jenkins-app-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-01T04:02:00.307140543-05:00"
     description: A Helm chart for Kubernetes
     digest: 65a6899922fd9bb8a42117213453b0c2e1b6cec69485724ff7c55f97f3c83139
     name: jenkins-app
@@ -24,7 +34,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-31T12:32:38.007960735-05:00"
+    created: "2023-01-01T04:02:00.306780636-05:00"
     description: A Helm chart for Kubernetes
     digest: cc7edf20d0d0add3eddf0610dcd2dad690569bc10a87e66bcaed66cc9a062331
     name: jenkins-app
@@ -32,4 +42,4 @@ entries:
     urls:
     - https://artsiomborisevich.github.io/helm-borisevich/helm-releases/jenkins-app-0.2.0.tgz
     version: 0.2.0
-generated: "2022-12-31T12:32:38.007410373-05:00"
+generated: "2023-01-01T04:02:00.306126272-05:00"
